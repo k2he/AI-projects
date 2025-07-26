@@ -8,5 +8,5 @@ How to setup in Ollama
 3. To run a model: `ollama run deepseek-r1:8b`
 4. To Exit/Stop ollama: `/bye`
 5. To list all models: `ollama list`
-6. ollama runs at: http://localhost:11434
+6. ollama runs at: `http://localhost:11434`
 7. To access in the code: `http://localhost:11434/api/chat`
